@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    font-family: arial;
+    border:border-box;
+}
+.navbar{
+    height: 60px;
+    background-color:  #0f1111;
+    color: white;
+    display: flex;
+
+}
+.navlogo{
+    height: 50px;
+    width: 100px;
+}
+.logo{
+    background-image: url(amazon_logo.png);
+    background-size: cover;
+    height: 50px;
+    width: 100px;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}/*box 2*/
+.top_address{
+    font-size: 12px;
+    font-family: arial;
+    color: #cccccc;
+}
+.bottom_address{
+    font-size: 14px;
+    font-family: arial;
+    color: #ffffff;
+}
+.address_icon{
+    display:flex ;
+    align-items:center;
+}
+.border{
+    border: 2px solid transparent;
+}
+.border:hover{
+    border: 2px solid white;
+}
