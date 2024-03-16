@@ -81,12 +81,32 @@
     border-bottom-right-radius: 4px;
     color: #0f1111;
 }
+.nav_search:hover{
+    border: 2px solid orange;
+}
 /*box4*/
 .choose_lang{
+    color: #0f1111;
    
-    display: flex;
-   
-    height: 50px;
-    width: 30px;
+  
+}
+/*box5*/
+
+.nav_first{
+    font-size: 12px;
+    color: #ffffff;
+}
+.nav_seconds{
     font-size: 14px;
+    color: #ffffff;
+    font-weight: 700;
+}
+/*box6*/
+.cart_logo i {
+    width: 36px;
+    height: 26px;
+}
+.cart{
+    font-size: 14px;
+    font-weight: 700;
 }
